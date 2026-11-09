@@ -1,4 +1,5 @@
 # Hostel Occupancy Dashboard
+**Live demo:** https://hostel-occupancy-dashboard.streamlit.app/
 
 A sample Streamlit analytics dashboard for a hostel business: occupancy,
 revenue, and guest mix by month and room type, with filters.
